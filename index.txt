@@ -1,2 +1,1 @@
-Hello Git!
-New line
+This is the second file
